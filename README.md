@@ -14,7 +14,7 @@
 </h3>
 Hey! I'm currently studying at IIIT Jabalpur. I am on track for learning more about web Dev, Cloud etc. 
 
-Interests: OpenSource Contribution, Video Games [ The Last of Us, Uncharted, God of War, Horizon Zero Dawn, Resident Evil, and more! ], Design [ Web Design, Level Design, Character Design, Scripting ].
+Interests: OpenSource Contribution, Video Games, Design [ Web Design, Level Design, Character Design, Scripting ].
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" alt="c" width="25" height="25" />
@@ -42,7 +42,6 @@ Interests: OpenSource Contribution, Video Games [ The Last of Us, Uncharted, God
 </p>
 
 <a href="https://github.com/avi5079"><img alt="Aviral's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=avi5079&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
-<a href="https://github.com/avi5079"><img alt="Aviral's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi5079&hide=ASP.NET,Jupyter Notebook&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=151515&title_color=fff&icon_color=79ff97" height="192px"/></a>
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
 
