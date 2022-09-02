@@ -41,7 +41,7 @@ Interests: OpenSource Contribution, Video Games, Design [ Web Design, Level Desi
 <img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" width="25" height="25" />
 </p>
 
-<a href="https://github.com/avi5079"><img alt="Aviral's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=avi5079&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true" height="192px"/></a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avi5079&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
 
