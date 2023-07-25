@@ -12,7 +12,7 @@
 ![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
 </h3>
-Hey! I'm currently studying at IIIT Jabalpur. I am on track for learning more about web Dev, Cloud etc. 
+Hey! I'm currently studying at IIIT Jabalpur. I am currently learning more about Full Stack Development. 
 
 Interests: OpenSource Contribution, Video Games, Design [ Web Design, Level Design, Character Design, Scripting ].
 
@@ -40,8 +40,6 @@ Interests: OpenSource Contribution, Video Games, Design [ Web Design, Level Desi
 <img src="https://user-images.githubusercontent.com/59575502/127427342-0ff4c732-b5dd-4f67-b4d3-e6cc3d9d7f72.png" alt="android" width="25" height="25" />
 <img src="https://user-images.githubusercontent.com/59575502/127426760-7a199e4d-b13d-4da3-8df1-f3c07713d8ff.png" alt="r" width="25" height="25" />
 </p>
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avi5079&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
 
